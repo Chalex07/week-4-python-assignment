@@ -1,0 +1,7 @@
+1: Welcome to Todays Session
+2: Today it's gonna be awesome
+3: Python provides multiple ways to read file contents
+4: Closing Files
+5: Writing & Appending to Files
+6:  This is a write test, 
+7:  Hello world
